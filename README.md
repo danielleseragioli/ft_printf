@@ -21,7 +21,7 @@ This project helped me strengthen my understanding of:
 ✅ **Project completed successfullyas part of my 42 journey** <br>
 💻 **Language:** C
 <br><br>
-<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf.webp">
+<img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/printf_pin.png">
 <br>
 
 ---
