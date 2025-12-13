@@ -26,7 +26,7 @@ This project helped me strengthen my understanding of:
 
 ---
 
-## 🧩 Project Overview
+## Project Overview
 
 The main objective is to recreate a simplified version of the `printf()` function with support for the following **format specifiers**:
 
@@ -53,20 +53,5 @@ int main(void)
     return (0);
 }
 ```
-
----
-
-## 📚 What I Learned
-
-This project helped me strengthen my understanding of:
-
-* Handling **variadic functions** with `stdarg.h`
-* **Base conversion** for numerical outputs
-* **Recursive logic** for number printing and length calculation
-* **Formatted output control** and character counting
-* **Modular code design** for maintainability
-* **Makefile** creation and compilation management
-
----
 
 
